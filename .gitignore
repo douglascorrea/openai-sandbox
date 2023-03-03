@@ -1,0 +1,45 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Local settings
+.env
+venv/
+.env.local
+.env.*.local
+
+# Dependency directories
+.venv/
+env/
+env.bak/
+venv.bak/
+
+# Distribution directories
+dist/
+build/
+eggs/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+
+# Pytest
+.cache
+pytest_cache/
+
+# Sublime project files
+*.sublime-workspace
+
+# IDE files
+.vscode/
+*.pydevproject
+.idea/
+*.egg-info/
